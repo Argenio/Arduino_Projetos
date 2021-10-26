@@ -4,3 +4,5 @@ Repositório de Projetos de estudos do Curso - Arduino.net do canal Brincando co
 
 Feramenta de Apoio :
 https://wokwi.com/
+https://www.tinkercad.com/dashboard
+
