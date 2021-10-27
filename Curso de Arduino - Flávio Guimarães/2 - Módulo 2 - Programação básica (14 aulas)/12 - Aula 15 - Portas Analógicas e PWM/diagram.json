@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "author": "Argênio Silveira",
+  "editor": "wokwi",
+  "parts": [ { "type": "wokwi-arduino-uno", "id": "uno", "top": -96.18, "left": -23.44, "attrs": {} } ],
+  "connections": [ [ "uno:5V", "uno:A0", "red", [ "v28.13", "h47.61" ] ] ]
+}
