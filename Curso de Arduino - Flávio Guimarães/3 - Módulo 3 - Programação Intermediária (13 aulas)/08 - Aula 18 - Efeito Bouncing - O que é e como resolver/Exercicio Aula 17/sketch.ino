@@ -1,3 +1,12 @@
+/*
+  Curso de Arduino .NET - Flávio Guimarães
+  CANAL: Brincando com Ideias - https://www.youtube.com/c/BrincandocomIdeias
+  SITE: https://www.brincandocomideias.com/
+  Autor:  Argênio Silveira 
+  Link:   https://wokwi.com/arduino/projects/313715616715375170
+  MODULO: 3 - Módulo 3 - Programação Intermediária (13 aulas)
+  SKETCH: 08 - Aula 18 - Efeito Bouncing - O que é e como resolver - Exercicio Aula 17
+*/
 void setup() {
   Serial.begin(9600);
 
