@@ -5,8 +5,11 @@ Repositório de Estudos do Curso - Arduino.net do canal Brincando com Ideias
 Feramenta de Apoio : https://wokwi.com/
 
 Aulas do Curso :
-* Aulas Principais
+
+*Aulas Principais
+
 Módulo 1 - Eletrônica Básica (12 aulas)
+
 	01* - Aula 01 - Conhecendo Melhor o Arduino
 	02* - Aula 02 - Como Instalar o Arduino
 	03* - Aula 03 - Como Funciona a Eletrônica
@@ -21,6 +24,7 @@ Módulo 1 - Eletrônica Básica (12 aulas)
 	12 - Aula ao Vivo 14 - AULA DE APOIO - Maneiras de Energizar o Arduino Corretamente e NÃO QUEIMÁ-LO
 	
 2 - Módulo 2 - Programação básica (14 aulas)
+
 	01* - Aula 11 - Setup, Loop e Portas Digitais
 	02 - Aula ao Vivo 29 - AULA DE APOIO - Como Funcionam as Abas da IDE
 	03 - Aula ao Vivo 23 -  O meu projeto esta bugado! O que faço
@@ -37,6 +41,7 @@ Módulo 1 - Eletrônica Básica (12 aulas)
 	14 - Aula ao Vivo 16 - AULA DE APOIO - Como acionar cargas que as portas do Arduino não suportam
 
 3 - Módulo 3 - Programação Intermediária (13 aulas)
+
 	01* - Aula 16 - Programação de Condições IF, ELSE e ELSEIF
 	02 - Aula ao Vivo 3 - AULA DE APOIO - Lógica do Comando IF e Operações Lógicas
 	03 - Aula ao Vivo 4 - AULA DE APOIO - Operações Lógicas Combinadas, ELSE e ELSE IF
