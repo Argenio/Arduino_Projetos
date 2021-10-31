@@ -62,12 +62,16 @@ Módulo 1 - Eletrônica Básica (12 aulas)
 	09 - Aula ao Vivo 10 - AULA DE APOIO - millis e micros na pratica e gerador de Onda Quadrada
 	10* - Aula 19 - Controle de Repetições - WHILE e FOR
 		Exercicio Aula 18 - https://wokwi.com/arduino/projects/313810224793256513
-		
+		https://wokwi.com/arduino/projects/313815033598444098
 	11 - Aula ao Vivo 20 - AULA DE APOIO - WHILE e FOR - Laços de Repetição
 	12 - Aula ao Vivo 27 - AULA DE APOIO -  Funções Recursivas
 	13 - Aula ao Vivo 21 - AULA DE APOIO - watch dog no Arduino - Proteção contra travamentos
 
 4 - Módulo 4 - Programação avançada (10 aulas)
+
+	01* - Aula 20 - Estrutura de Dados e Array
+		Exercicio Aula 19 - https://wokwi.com/arduino/projects/313995651866165824
+		https://wokwi.com/arduino/projects/313998839611654720
 5 - Módulo 5 - Comunicação (4 aulas)
 6 - Aula de Conclusão
 7 - Bônus 1
