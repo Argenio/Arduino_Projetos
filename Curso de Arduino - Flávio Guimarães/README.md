@@ -35,23 +35,34 @@ Módulo 1 - Eletrônica Básica (12 aulas)
 	08* - Aula 14 - Tipos de Variáveis de Dados
 	09 - Aula ao Vivo 8 - AULA DE APOIO Float e Double no Arduino - Segredos e Armadilhas
 	10 - Aula ao Vivo 30 - AULA DE APOIO - Conversões entre Tipos de Variáveis
+		https://wokwi.com/arduino/projects/313543461092459074
 	11 - Aula ao Vivo 18 - AULA DE APOIO Funções - Declaração, Parâmetros, Retorno e Outros Segredos
 	12* - Aula 15 - Portas Analógicas e PWM
+		Exercicio Aula 14 - https://wokwi.com/arduino/projects/313613653566816832
+		https://wokwi.com/arduino/projects/313616325715952193
 	13 - Aula ao Vivo 15 - AULA DE APOIO - Como usar corretamente as portas do Arduino
 	14 - Aula ao Vivo 16 - AULA DE APOIO - Como acionar cargas que as portas do Arduino não suportam
 
 3 - Módulo 3 - Programação Intermediária (13 aulas)
 
 	01* - Aula 16 - Programação de Condições IF, ELSE e ELSEIF
+		Exercicio Aula 15 - https://wokwi.com/arduino/projects/313626449954210368
+		https://wokwi.com/arduino/projects/313629848901780032
 	02 - Aula ao Vivo 3 - AULA DE APOIO - Lógica do Comando IF e Operações Lógicas
 	03 - Aula ao Vivo 4 - AULA DE APOIO - Operações Lógicas Combinadas, ELSE e ELSE IF
 	04 - Aula ao Vivo 18 - AULA DE APOIO - Como Rodar Multi-Tarefas no Arduino
 	05 - Aula ao Vivo 6 - AULA DE APOIO - Diferença entre IF e #IF e Diretivas de Compilação
 	06 - Aula Ao Vivo 28 - AULA DE APOIO - Por que o Arduino não me obedece Evite Lógica Invertida!
 	07* - Aula 17 - Operadores Lógicos e Comandos SWITCH, CASE e DEFAULT
+		Exercicio Aula 16 - https://wokwi.com/arduino/projects/313692398154678850
+		https://wokwi.com/arduino/projects/313715261917102658
 	08* - Aula 18 - Efeito Bouncing - O que é e como resolver
+		Exercicio Aula 17 - https://wokwi.com/arduino/projects/313715616715375170
+		https://wokwi.com/arduino/projects/313785925601591874
 	09 - Aula ao Vivo 10 - AULA DE APOIO - millis e micros na pratica e gerador de Onda Quadrada
 	10* - Aula 19 - Controle de Repetições - WHILE e FOR
+		Exercicio Aula 18 - https://wokwi.com/arduino/projects/313810224793256513
+		
 	11 - Aula ao Vivo 20 - AULA DE APOIO - WHILE e FOR - Laços de Repetição
 	12 - Aula ao Vivo 27 - AULA DE APOIO -  Funções Recursivas
 	13 - Aula ao Vivo 21 - AULA DE APOIO - watch dog no Arduino - Proteção contra travamentos
