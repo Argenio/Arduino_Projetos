@@ -70,8 +70,8 @@ Módulo 1 - Eletrônica Básica (12 aulas)
 4 - Módulo 4 - Programação avançada (10 aulas)
 
 	01* - Aula 20 - Estrutura de Dados e Array
-		Exercicio Aula 19 - 
-
+		Exercicio Aula 19 - https://wokwi.com/arduino/projects/313995651866165824
+		https://wokwi.com/arduino/projects/313998839611654720
 5 - Módulo 5 - Comunicação (4 aulas)
 6 - Aula de Conclusão
 7 - Bônus 1
