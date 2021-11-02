@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For [nome da biblioteca]
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1) - Tipos de Dados
+#######################################
+
+[nome da classe 1]	KEYWORD1
+[nome da classe 2]	KEYWORD1
+[nome da classe n]	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2) - Métodos e Funções
+#######################################
+
+[nome do método público 1]	KEYWORD2
+[nome do método público 2]	KEYWORD2
+[nome do método público n]	KEYWORD2
+
+#######################################
+# Constants (LITERAL1) - Constantes
+#######################################
+
+[nome da constante ou definição 1] LITERAL1
+[nome da constante ou definição 2] LITERAL1
+[nome da constante ou definição n] LITERAL1
