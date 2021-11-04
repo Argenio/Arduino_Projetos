@@ -1,0 +1,8 @@
+MODELO		MicroControlador	FLASH	SRAM	EEPROM
+Uno		ATmega328P		32Kb	2Kb	1Kb
+Nano (Igual o Uno)
+Lilypad		ATmaga328V		16Kb	1Kb	512b
+Leonardo	ATmega32U4		32Kb	2.5Kb	1Kb
+Micro (Igual Leonardo)
+Arduino101	INTEL Cirie		196Kb	24Kb	NãoTem
+MEGA		ATmega2560		256Kb	8Kb	4Kb

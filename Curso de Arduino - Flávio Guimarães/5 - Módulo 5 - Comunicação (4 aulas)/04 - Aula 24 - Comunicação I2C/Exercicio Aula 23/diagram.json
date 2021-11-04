@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "author": "Argênio Silveira",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": 407.57, "left": -31.76, "attrs": {} },
+    { "type": "wokwi-logic-analyzer", "id": "logic1", "top": 263.92, "left": 268.25, "attrs": {} }
+  ],
+  "connections": [
+    [ "logic1:GND", "uno:GND.1", "black", [ "h0" ] ],
+    [ "logic1:D0", "uno:0", "green", [ "h0" ] ],
+    [ "logic1:D1", "uno:1", "green", [ "h0" ] ]
+  ]
+}
