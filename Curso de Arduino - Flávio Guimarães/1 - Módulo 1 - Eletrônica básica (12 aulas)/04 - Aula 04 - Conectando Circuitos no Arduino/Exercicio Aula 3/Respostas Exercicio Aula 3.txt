@@ -1,0 +1,31 @@
+/*
+  Curso de Arduino .NET - Flávio Guimarães
+  CANAL: Brincando com Ideias - https://www.youtube.com/c/BrincandocomIdeias
+  SITE: https://www.brincandocomideias.com/
+  Autor:  Argênio Silveira 
+  Link:   https://wokwi.com/arduino/projects/314356632320475714
+  MODULO: 1 - Módulo 1 - Eletrônica básica (12 aulas) 
+  SKETCH: 04 - Aula 04 - Conectando Circuitos no Arduino - Exercicio Aula 3
+*/
+/*
+Partes do circuito eletrico:
+3 Partes:
+Fonte
+Carga
+Chave
+	Resistor
+------------------
+
+Fenômenos da eletricidade: corrente, tensão e resistência.
+Corrente -  AMPER (A)
+Tensão -  VOLT (V)
+Resistência - OHM (Ω)
+
+Unidades de medida: Amper, Volt e Ohm.
+
+-----------------
+
+A voltagem de um raio encontra-se entre 100 milhões e 1 bilhão de Volts.
+Sua corrente é da ordem de 30 mil Ampères, ou seja, a mesma utilizada por 30 mil lâmpadas de 100 W juntas.
+Em alguns raios, a corrente pode chegar a 300 mil Ampères!
+*/

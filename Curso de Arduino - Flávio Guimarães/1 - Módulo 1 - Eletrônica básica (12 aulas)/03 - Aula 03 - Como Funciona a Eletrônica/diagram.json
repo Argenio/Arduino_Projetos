@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "author": "Argênio Silveira",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": -102, "left": -174.67, "attrs": {} },
+    { "type": "wokwi-slide-switch", "id": "sw1", "top": 87.34, "left": 159.34, "attrs": {} },
+    {
+      "type": "wokwi-led",
+      "id": "led1",
+      "top": 62.67,
+      "left": 289.33,
+      "attrs": { "color": "red" }
+    },
+    { "type": "wokwi-resistor", "id": "r1", "top": 144.66, "left": 153.33, "attrs": {} }
+  ],
+  "connections": [
+    [ "uno:GND.2", "sw1:2", "black", [ "v48.37", "h182.17" ] ],
+    [ "sw1:3", "led1:C", "black", [ "v15.87", "h98.16" ] ],
+    [ "led1:A", "r1:2", "red", [ "v0" ] ],
+    [ "r1:1", "uno:5V", "red", [ "v0.21", "h-233.66" ] ]
+  ]
+}
